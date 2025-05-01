@@ -4011,3 +4011,17 @@ https://www.virustotal.com/gui/file/6f0f20da34396166df352bf301b3c59ef42b0bc67f52
 https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
 https://research.nccgroup.com/2022/07/13/climbing-mount-everest-black-byte-bytes-back/
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://www.vectra.ai/blog/undermining-microsoft-teams-security-by-mining-tokens
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
+https://www.proofpoint.com/us/blog/threat-insight/serpent-no-swiping-new-backdoor-targets-french-entities-unique-attack-chain
+https://github.com/logangoins/Krueger/tree/main
+https://github.com/gentilkiwi/mimikatz
+https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout-via-linux-binary-s.html
+https://intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf
+https://learn.microsoft.com/en-us/iis/configuration/system.webserver/httplogging
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://github.com/nasbench/Misc-Research/blob/main/ETW/Microsoft-Windows-SMBClient.md
+https://labs.jumpsec.com/tokensmith-bypassing-intune-compliant-device-conditional-access/
