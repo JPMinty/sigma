@@ -190,6 +190,7 @@ https://blog.3or.de/hunting-dns-server-level-plugin-dll-injection.html
 https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html
 https://blog.alsid.eu/dcshadow-explained-4510f52fc19d
 https://blog.alyac.co.kr/1901
+https://blog.appsecco.com/kubernetes-namespace-breakout-using-insecure-host-path-volume-part-1-b382f2a6e216
 https://blog.aquasec.com/container-security-tnt-container-attack
 https://blog.assetnote.io/2021/11/02/sitecore-rce/
 https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
@@ -1720,12 +1721,14 @@ https://gtfobins.github.io/gtfobins/c99/#shell
 https://gtfobins.github.io/gtfobins/env/#shell
 https://gtfobins.github.io/gtfobins/find/#shell
 https://gtfobins.github.io/gtfobins/flock/#shell
+https://gtfobins.github.io/gtfobins/gawk/#shell
 https://gtfobins.github.io/gtfobins/git/#shell
 https://gtfobins.github.io/gtfobins/mawk/#shell
 https://gtfobins.github.io/gtfobins/nawk/#shell
 https://gtfobins.github.io/gtfobins/nice/#shell
 https://gtfobins.github.io/gtfobins/nohup/
 https://gtfobins.github.io/gtfobins/python/#shell
+https://gtfobins.github.io/gtfobins/rsync/#shell
 https://gtfobins.github.io/gtfobins/rvim/
 https://gtfobins.github.io/gtfobins/ssh/
 https://gtfobins.github.io/gtfobins/vim/
@@ -1791,6 +1794,7 @@ https://itconnect.uw.edu/tools-services-support/it-systems-infrastructure/msinf/
 https://jamesonhacking.blogspot.com/2020/12/pivoting-to-private-aws-s3-buckets.html
 https://jasonmull.com/articles/offensive/2025-05-12-windows-crash-dumps-offensive-security/
 https://jdhnet.wordpress.com/2017/12/19/changing-the-location-of-the-windows-event-logs/
+https://jgspiers.com/audit-group-policy-changes/
 https://jonconwayuk.wordpress.com/2014/01/31/wmic-csproduct-using-wmi-to-identify-make-and-model-of-hardware/
 https://jpcertcc.github.io/ToolAnalysisResultSheet
 https://jpcertcc.github.io/ToolAnalysisResultSheet/details/nltest.htm
@@ -2330,6 +2334,7 @@ https://media.defense.gov/2020/Jun/09/2002313081/-1/-1/0/CSI-DETECT-AND-PREVENT-
 https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF
 https://media.defense.gov/2023/May/09/2003218554/-1/-1/0/JOINT_CSA_HUNTING_RU_INTEL_SNAKE_MALWARE_20230509.PDF
 https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf
+https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064518/Carbanak_APT_eng.pdf
 https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2022/06/23093553/Common-TTPs-of-the-modern-ransomware_low-res.pdf
 https://medium.com/@7a616368/can-you-track-processes-accessing-the-camera-and-microphone-7e6885b37072
 https://medium.com/@ahmed.moh.farou2/fake-captcha-campaign-on-arabic-pirated-movie-sites-delivers-lumma-stealer-4f203f7adabf
@@ -2403,6 +2408,7 @@ https://msdn.microsoft.com/en-us/library/cc220234.aspx
 https://msdn.microsoft.com/powershell/reference/5.1/microsoft.powershell.utility/Invoke-WebRequest
 https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/
 https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-40444
+https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-33053
 https://msrc.microsoft.com/update-guide/vulnerability/ADV170021
 https://msrc.microsoft.com/update-guide/vulnerability/ADV210003
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1675
@@ -2630,6 +2636,7 @@ https://research.splunk.com/cloud/c783dd98-c703-4252-9e8a-f19d9f5c949e/
 https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
+https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -3529,6 +3536,7 @@ https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-tar
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/
 https://www.carbonblack.com/blog/tau-threat-intelligence-notification-lockergoga-ransomware/
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-302a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a
@@ -3697,6 +3705,7 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
+https://www.hexacorn.com/blog/2013/01/19/beyond-good-ol-run-key-part-3/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
@@ -3828,6 +3837,7 @@ https://www.microsoft.com/en-us/security/blog/2022/07/26/malicious-iis-extension
 https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/
 https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
+https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
 https://www.microsoft.com/en-us/security/blog/2023/03/24/guidance-for-investigating-attacks-using-cve-2023-23397/
 https://www.microsoft.com/en-us/security/blog/2023/04/11/guidance-for-investigating-attacks-using-cve-2022-21894-the-blacklotus-campaign/
 https://www.microsoft.com/en-us/security/blog/2023/04/18/nation-state-threat-actor-mint-sandstorm-refines-tradecraft-to-attack-high-value-targets/
